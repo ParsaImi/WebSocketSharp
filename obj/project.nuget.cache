@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ssw3V/rNGA7aaY7XG3U4O52KY+lBmrpi+na+bDiMC8hxnk0J4W52rsvDWoNgYdg54+dPi+i4Tl/precOyPXvQw==",
+  "success": true,
+  "projectFilePath": "/home/imicorp/chatapp/chatapp.csproj",
+  "expectedPackageFiles": [
+    "/home/imicorp/.nuget/packages/websocketsharp.standard/1.0.3/websocketsharp.standard.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

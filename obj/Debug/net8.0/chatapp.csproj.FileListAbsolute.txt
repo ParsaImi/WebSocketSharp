@@ -1,0 +1,17 @@
+/home/imicorp/chatapp/obj/Debug/net8.0/chatapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/imicorp/chatapp/obj/Debug/net8.0/chatapp.AssemblyInfoInputs.cache
+/home/imicorp/chatapp/obj/Debug/net8.0/chatapp.AssemblyInfo.cs
+/home/imicorp/chatapp/obj/Debug/net8.0/chatapp.csproj.CoreCompileInputs.cache
+/home/imicorp/chatapp/obj/Debug/net8.0/chatapp.csproj.AssemblyReference.cache
+/home/imicorp/chatapp/bin/Debug/net8.0/chatapp
+/home/imicorp/chatapp/bin/Debug/net8.0/chatapp.deps.json
+/home/imicorp/chatapp/bin/Debug/net8.0/chatapp.runtimeconfig.json
+/home/imicorp/chatapp/bin/Debug/net8.0/chatapp.dll
+/home/imicorp/chatapp/bin/Debug/net8.0/chatapp.pdb
+/home/imicorp/chatapp/bin/Debug/net8.0/websocket-sharp-standard.dll
+/home/imicorp/chatapp/obj/Debug/net8.0/chatapp.csproj.CopyComplete
+/home/imicorp/chatapp/obj/Debug/net8.0/chatapp.dll
+/home/imicorp/chatapp/obj/Debug/net8.0/refint/chatapp.dll
+/home/imicorp/chatapp/obj/Debug/net8.0/chatapp.pdb
+/home/imicorp/chatapp/obj/Debug/net8.0/chatapp.genruntimeconfig.cache
+/home/imicorp/chatapp/obj/Debug/net8.0/ref/chatapp.dll
